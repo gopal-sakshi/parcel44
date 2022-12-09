@@ -1,0 +1,16 @@
+{
+  "name": "parcel24",
+  "version": "1.0.0",
+  "description": "learning parcel ??",
+  "main": "index.js",
+  "scripts": {
+    "inspiredFrom": "git+https://github.com:authts/oidc-client-ts.git",
+    "build23": "node scripts23/build22.js && npm run build-types",
+    "build-types": "tsc -p tsconfig.build.json"
+  },
+  "author": "GopAL",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.16.3"
+  }
+}

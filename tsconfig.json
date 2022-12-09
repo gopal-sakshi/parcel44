@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+      "target": "ES2019",
+      "module": "ESNext",
+      "moduleResolution": "node",
+      "lib": ["ES2019", "DOM", "DOM.Iterable"],
+      "incremental": true,
+      "noEmit": true,
+      "tsBuildInfoFile": "tsconfig.tsbuildinfo", 
+      "strict": true,      
+      "esModuleInterop": true,      
+      "skipLibCheck": true,      
+      "forceConsistentCasingInFileNames": true,      
+      "importsNotUsedAsValues": "error",      
+      "isolatedModules": true,
+      "strictPropertyInitialization": false
+    },
+    "include": ["src44/"],
+  }
+  

@@ -1,0 +1,14 @@
+# root level
+/node_modules
+/package-lock.json
+
+# parcelStuff level
+/parcelStuff/node_modules
+/parcelStuff/package-lock.json
+/parcelStuff/package-lock.json
+/parcelStuff/.parcel-cache
+/parcelStuff/dist
+
+# output Thingy
+/lib
+/dist

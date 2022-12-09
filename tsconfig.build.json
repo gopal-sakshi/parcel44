@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {    
+    "rootDir": "./src44",
+    "outDir": "./lib",    
+    "declaration": true,
+    "declarationMap": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "tsBuildInfoFile": "tsconfig.build.tsbuildinfo"
+  },
+  "files": ["src44/index45.ts"],
+  "include": []
+}
